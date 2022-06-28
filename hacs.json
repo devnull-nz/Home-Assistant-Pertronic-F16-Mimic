@@ -1,0 +1,6 @@
+{
+    "name": "Pertronic F16 Fire Alarm Panel Integration",
+    "render_readme": true,
+    "country": "NZ",
+    "homeassistant": "2022.4.0"
+}
