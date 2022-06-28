@@ -1,0 +1,15 @@
+{
+  "domain": "p16m",
+  "name": "Pertronic F16 Mimic",
+  "config_flow": true,
+  "documentation": "https://www.home-assistant.io/integrations/p16m",
+  "requirements": [],
+  "ssdp": [],
+  "zeroconf": [],
+  "homekit": {},
+  "dependencies": [],
+  "codeowners": [
+    "@devnull-nz"
+  ],
+  "iot_class": "local_push"
+}
